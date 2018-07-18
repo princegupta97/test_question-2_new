@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13987" started-at="2018-07-11T06:20:20Z" finished-at="2018-07-11T06:20:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13987" started-at="2018-07-11T06:20:20Z" finished-at="2018-07-11T06:20:34Z">
+      <class name="com.qait.snl.round2Test.Test1">
+        <test-method status="PASS" signature="SortedTables()[pri:0, instance:com.qait.snl.round2Test.Test1@75c56eb9]" name="SortedTables" duration-ms="1597" started-at="2018-07-11T06:20:20Z" finished-at="2018-07-11T06:20:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SortedTables -->
+        <test-method status="PASS" signature="WYSIWYG()[pri:0, instance:com.qait.snl.round2Test.Test1@75c56eb9]" name="WYSIWYG" duration-ms="1034" started-at="2018-07-11T06:20:21Z" finished-at="2018-07-11T06:20:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WYSIWYG -->
+        <test-method status="PASS" signature="basicAuth()[pri:0, instance:com.qait.snl.round2Test.Test1@75c56eb9]" name="basicAuth" duration-ms="152" started-at="2018-07-11T06:20:22Z" finished-at="2018-07-11T06:20:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicAuth -->
+        <test-method status="PASS" signature="brokenImages()[pri:0, instance:com.qait.snl.round2Test.Test1@75c56eb9]" name="brokenImages" duration-ms="298" started-at="2018-07-11T06:20:23Z" finished-at="2018-07-11T06:20:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- brokenImages -->
+        <test-method status="PASS" signature="enterIncorrectCredentials()[pri:0, instance:com.qait.snl.round2Test.Test1@75c56eb9]" name="enterIncorrectCredentials" duration-ms="766" started-at="2018-07-11T06:20:23Z" finished-at="2018-07-11T06:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterIncorrectCredentials -->
+        <test-method status="PASS" signature="exitIntent()[pri:0, instance:com.qait.snl.round2Test.Test1@75c56eb9]" name="exitIntent" duration-ms="3799" started-at="2018-07-11T06:20:24Z" finished-at="2018-07-11T06:20:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exitIntent -->
+        <test-method status="PASS" signature="hover()[pri:0, instance:com.qait.snl.round2Test.Test1@75c56eb9]" name="hover" duration-ms="210" started-at="2018-07-11T06:20:27Z" finished-at="2018-07-11T06:20:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hover -->
+        <test-method status="PASS" signature="loginPage1()[pri:0, instance:com.qait.snl.round2Test.Test1@75c56eb9]" name="loginPage1" duration-ms="5303" started-at="2018-07-11T06:20:28Z" finished-at="2018-07-11T06:20:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPage1 -->
+        <test-method status="PASS" signature="statusCode()[pri:0, instance:com.qait.snl.round2Test.Test1@75c56eb9]" name="statusCode" duration-ms="795" started-at="2018-07-11T06:20:33Z" finished-at="2018-07-11T06:20:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCode -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.qait.snl.round2Test.Test1@75c56eb9]" name="close" is-config="true" duration-ms="0" started-at="2018-07-11T06:20:34Z" finished-at="2018-07-11T06:20:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.qait.snl.round2Test.Test1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
